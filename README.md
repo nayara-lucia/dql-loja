@@ -1,2 +1,15 @@
-# dql-loja
-📖 Manipulação de Queries SQL numa base de dados de uma loja
+# Banco de Dados com SQL 
+
+Mais de 100 consultas realizadas para a prática de gerência de Queries
+
+![image](https://www.talkapex.com/2019/02/how-to-execute-queries-in-sql-developer/sqldev-inefficient.gif)
+
+<hr>
+
+### Conceitos utilizados
+
+- Consultas Simples
+- Consultas Agregadas
+- Joins
+- Consultas Complexas
+- Views
