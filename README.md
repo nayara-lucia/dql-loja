@@ -1,6 +1,6 @@
 # Banco de Dados com SQL 
 
-Mais de 100 consultas realizadas para a prática de queries.
+Mais de 100 consultas realizadas para prática.
 
 ![image](https://www.talkapex.com/2019/02/how-to-execute-queries-in-sql-developer/sqldev-inefficient.gif)
 
